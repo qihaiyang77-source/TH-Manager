@@ -1,0 +1,5 @@
+{
+  "name": "TH-TaskManager 任务进度敏捷管理",
+  "description": "一个面向结果的团队任务进度可视化管理工具。关注交付结果，直观展示进度条，AI 辅助风险预警，避免微观管理。",
+  "requestFramePermissions": []
+}
